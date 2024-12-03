@@ -1,6 +1,6 @@
 # purescript-client-demo
 
-This repository demonstrates how the parts of [`cs150241project-lib`](https://github.com/UPD-CS150-241/cs150241project-lib/t) package can be used to create a Canvas-based application.
+This repository demonstrates how the parts of the [`cs150241project-lib`](https://github.com/UPD-CS150-241/cs150241project-lib/t) package can be used to create a Canvas-based application with networking.
 
 ## Setup
 
